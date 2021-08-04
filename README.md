@@ -12,6 +12,8 @@ Foi utilizado:
 - Swagger
 
 ## Modelo:
-<p align="center">
+<center>
+  
 ![modelo](src/main/resources/modelo.PNG)
-</p>
+
+</center>
