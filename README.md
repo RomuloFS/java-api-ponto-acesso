@@ -15,3 +15,5 @@ Foi utilizado:
 <p align="center">
     <img src="resources/modelo.png">
 </p>
+
+![Alt text](/src/main/resources/modelo.png?raw=true "Modelo")
