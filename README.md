@@ -11,4 +11,6 @@ Foi utilizado:
 - Lombok
 - Swagger
 
+## Modelo:
 
+![modelo](src/main/resources/modelo.PNG)
