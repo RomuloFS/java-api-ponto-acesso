@@ -13,5 +13,5 @@ Foi utilizado:
 
 ## Modelo
 <p align="center">
-    <img src="src/main/resources/modelo.png">
+    <img src="resources/modelo.png">
 </p>
